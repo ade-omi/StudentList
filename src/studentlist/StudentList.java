@@ -19,7 +19,7 @@ public class StudentList {
      */
     public static void main(String[] args) {
         //Array of students
-        Student[] students = new Student[2];
+        Student[] students = new Student[3];//Changes array size to 3
         
         Scanner input = new Scanner(System.in);
         //Loop to create studnets
