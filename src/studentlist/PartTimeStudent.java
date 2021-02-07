@@ -6,6 +6,7 @@ package studentlist;
  * @author dapo
  */
 public class PartTimeStudent extends Student {
+    //This is done
     
     private int numCourses;
 
