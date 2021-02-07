@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *This class is a simple example of creating arrays of objects
- * 
+ * @date February 7, 2021
  * @author dapo
  */
 public class StudentList {
